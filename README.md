@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images6.alphacoders.com/640/640750.jpg" width="900" alt="Supernatural Banner">
+<img src="https://github.com/AnaMeloBSI/anamelobsi/blob/main/gitbanner.jpg">
 </p>
 
 <h1 align="center">⚔️ Developer Hunter</h1>
