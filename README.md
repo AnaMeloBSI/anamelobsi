@@ -70,7 +70,7 @@ Transformando lógica em soluções, um sistema por vez.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=erikfiliper&color=blueviolet&style=for-the-badge">
+<img src="[https://komarev.com/ghpvc/?username=erikfiliper&color=blueviolet&style=for-the-badge](https://www.pngarts.com/files/9/The-Big-Bang-Theory-Logo-PNG-Image-Background.png)">
 
 </p>
 
