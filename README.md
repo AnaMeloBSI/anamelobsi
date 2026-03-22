@@ -7,13 +7,6 @@
 Transformando lógica em soluções, um sistema por vez.
 </p>
 
-<p align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-BF31A2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikfiliper/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/erik.wendel.rp/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E8293?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-filipe-201a38194/)
-
-</p>
 
 ---
 
