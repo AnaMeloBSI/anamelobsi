@@ -23,8 +23,6 @@ Transformando lógica em soluções, um sistema por vez.
 🌐 **Fundamentos de Redes**
 `Cisco Networking Academy`
 
-⚡ Apaixonado por tecnologia, programação e desenvolvimento de sistemas.
-
 ---
 
 ## 🧰 Tecnologias e Ferramentas
