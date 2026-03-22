@@ -2,9 +2,9 @@
 <img src="https://github.com/AnaMeloBSI/anamelobsi/blob/main/banner2.jpg">
 </p>
 
-<h1 align="center">⚔️ Developer Hunter</h1>
+<h1 align="center">🌙 Building the Future</h1>
 <p align="center">
-Saving people, hunting bugs, the developer life.
+Transformando lógica em soluções, um sistema por vez.
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@ Saving people, hunting bugs, the developer life.
 🎓 **Cursando Bacharel em Sistemas de Informação**  
 `Instituto Federal do Norte de Minas Gerais / IFNMG`
 
-🎨 **Design Gráfico & Web Design**  
-`EBAC / Escola Britânica de Artes Criativas & Tecnologia`
+💻 **Técnica em Informática**
+`Instituto Federal do Norte de Minas Gerais / IFNMG`
 
-🚀 **CEO EF STUDYO**  
-`DEV & WEB DESIGN`
+🌐 **Fundamentos de Redes**
+`Cisco Networking Academy`
 
 ⚡ Apaixonado por tecnologia, programação e desenvolvimento de sistemas.
 
@@ -81,5 +81,5 @@ Saving people, hunting bugs, the developer life.
 </p>
 
 <p align="center">
-🧂 <i>"Driver picks the music. Shotgun shuts his cakehole."</i> — Dean Winchester
+🧂 <i>"São as nossas escolhas que mostram quem realmente somos."</i> — Albus Dumbledore
 </p>
